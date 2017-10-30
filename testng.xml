@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="The Floow Test">
+	<test name="Create Account Test">
+		<classes>
+			<class name="thefloow.tests.CreateAccountTest" />
+		</classes>
+	</test>
+	<test name = "Home Page Validation Test">
+		<classes>
+			<class name="thefloow.tests.ValidateHomeMenu" />
+		</classes>
+	</test>
+</suite>
