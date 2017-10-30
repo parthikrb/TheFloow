@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="The Floow Test" duration-ms="208960" started-at="2017-10-30T11:53:00Z" finished-at="2017-10-30T11:56:29Z">
+    <groups>
+    </groups>
+    <test name="Create Account Test" duration-ms="135459" started-at="2017-10-30T11:53:00Z" finished-at="2017-10-30T11:55:16Z">
+      <class name="thefloow.tests.CreateAccountTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:thefloow.tests.CreateAccountTest@13805618]" name="beforeTest" is-config="true" duration-ms="35226" started-at="2017-10-30T17:23:00Z" finished-at="2017-10-30T17:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:thefloow.tests.CreateAccountTest@13805618]" name="beforeMethod" is-config="true" duration-ms="355" started-at="2017-10-30T17:23:35Z" finished-at="2017-10-30T17:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:thefloow.tests.CreateAccountTest@13805618]" name="f" duration-ms="98978" started-at="2017-10-30T17:23:36Z" finished-at="2017-10-30T17:25:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:thefloow.tests.CreateAccountTest@13805618]" name="afterTest" is-config="true" duration-ms="886" started-at="2017-10-30T17:25:15Z" finished-at="2017-10-30T17:25:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- thefloow.tests.CreateAccountTest -->
+    </test> <!-- Create Account Test -->
+    <test name="Home Page Validation Test" duration-ms="73483" started-at="2017-10-30T11:55:16Z" finished-at="2017-10-30T11:56:29Z">
+      <class name="thefloow.tests.ValidateHomeMenu">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:thefloow.tests.ValidateHomeMenu@31610302]" name="beforeTest" is-config="true" duration-ms="33991" started-at="2017-10-30T17:25:16Z" finished-at="2017-10-30T17:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:thefloow.tests.ValidateHomeMenu@31610302]" name="beforeMethod" is-config="true" duration-ms="230" started-at="2017-10-30T17:25:50Z" finished-at="2017-10-30T17:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:thefloow.tests.ValidateHomeMenu@31610302]" name="f" duration-ms="38298" started-at="2017-10-30T17:25:50Z" finished-at="2017-10-30T17:26:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:thefloow.tests.ValidateHomeMenu@31610302]" name="afterTest" is-config="true" duration-ms="962" started-at="2017-10-30T17:26:28Z" finished-at="2017-10-30T17:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- thefloow.tests.ValidateHomeMenu -->
+    </test> <!-- Home Page Validation Test -->
+  </suite> <!-- The Floow Test -->
+</testng-results>
